@@ -32,3 +32,7 @@ Identified factories with the highest downtime exposure
 Determined device types contributing most to operational risk
 
 Highlighted patterns that could inform maintenance prioritization
+
+## 📷 Dashboard Preview
+
+![Factory Downtime Dashboard](MachinethatbeokethemostinSeikoFactory(LaserWelder).png)
