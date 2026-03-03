@@ -1,5 +1,6 @@
 # deloitte-telemetry-downtime-dashboard
 📊 Factory Downtime Analysis – Tableau Dashboard 📌 Project Overview  This project analyzes telemetry data to identify operational downtime patterns across factories and device types. The goal was to quantify potential downtime and highlight risk areas using data visualization.
+
 🛠 Tools Used
 
 Tableau
@@ -7,6 +8,7 @@ Tableau
 Excel
 
 JSON telemetry dataset
+
 🔎 Methodology
 
 Imported and structured JSON telemetry data in Tableau
